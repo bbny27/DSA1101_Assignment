@@ -1,5 +1,5 @@
 # Description
-A brief statistical report on ML methods implemented by R on a dataset of diabetes patients on Kaggle for AY 22/23 Semester 2 DSA1101 (Introduction to Data Science).
+A brief statistical report on ML methods implemented by R on a dataset of diabetes patients taken from Kaggle. The project is part of an assignment for AY 22/23 Semester 2 DSA1101 (Introduction to Data Science).
 
 ## Dataset
 The dataset is taken from a Kaggle website by Mohammed Mustafa (https://www.kaggle.com/datasets/iammustafatz/diabetes-prediction-dataset/data)
